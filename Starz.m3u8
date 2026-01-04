@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 1" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/254310.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 1 +" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 1 +
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/1173275.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 2" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/254309.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 2 +" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 2 +
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/1173276.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 3 ᴴᴰ
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/252862.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay / AD SPORTS 3+" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay / AD SPORTS 3+
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/252720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| StarzPlay /AD PREMIER 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| StarzPlay /AD PREMIER 3 ᵁᴴᴰ
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/314102.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sports Asia Live Event1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event1 ᴴᴰ
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/160258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sports Asia Live Event 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| AD Sports Asia Live Event 2 ᴴᴰ
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/160261.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| LIVE EVENT 2 UFC  6/8PM Paul v Diaz" tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| LIVE EVENT 2 UFC  6/8PM Paul v Diaz
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/156429.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| LIVE EVENT 3 UFC" tvg-logo="http://138.199.27.237:8080/USA/UFCFIGHTPASS.png" group-title="|AR| ✪ STARZPLAY SPORT | EVENT PPV",|AR| LIVE EVENT 3 UFC
+http://31.57.111.12:80/live/Aldtv24_600256/I3ATMC28/156430.m3u8
